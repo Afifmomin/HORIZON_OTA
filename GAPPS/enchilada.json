@@ -1,0 +1,18 @@
+{
+    "response": [
+        {
+            "device": "OnePlus 6",
+            "codename": "enchilada",
+            "maintainer": "Akshay",
+            "datetime": 1745679177,
+            "filename": "HorizonDroid-v5.2-Supernova-GAPPS-enchilada-OFFICIAL-26042025.zip",
+            "md5": "2fbd799c63257f42a969aaed16bfa716",
+            "buildtype": "OFFICIAL",
+            "size": 1349161589,
+            "download": "https://7mh7pg.sharepoint.com/_layouts/15/download.aspx?share=Eb6iI-Mk1qxEsOultUQVczEBWtm-oxSPffAS9D3UY-jMpA",
+            "version": "v5.2",
+            "support": "https://t.me/pandemonium_haydn",
+            "changelogs": ""
+        }
+    ]
+}
