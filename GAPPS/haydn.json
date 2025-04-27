@@ -1,18 +1,18 @@
 {
     "response": [
         {
-            "device": "",
+            "device": "Xiaomi Mi 11x Pro/Redmi K40 Pro+",
             "codename": "haydn",
             "maintainer": "Akshay",
-            "datetime": 1745665945,
-            "filename": "HorizonDroid-v5.2-Supernova-GAPPS-haydn-OFFICIAL-26042025.zip",
-            "md5": "2a942e2e17c3fb3a4146640d3eaa5ff3",
+            "datetime": 1745750954,
+            "filename": "HorizonDroid-v5.2-Supernova-GAPPS-haydn-OFFICIAL-27042025.zip",
+            "md5": "309b813cf9bda15f9196675db08903e3",
             "buildtype": "OFFICIAL",
-            "size": 2426704913,
-            "download": "https://7mh7pg.sharepoint.com/_layouts/15/download.aspx?share=EZJXB8kCHeRJlLrG_OzaecIB-OlWAY3nGe26IOG_gOFgeA",
+            "size": 2420874042,
+            "download": "https://7mh7pg.sharepoint.com/_layouts/15/download.aspx?share=ESG5y9LoC2dIjmSd8RxyJpsBeGluNlOmW_DyzSzB9PHoDw",
             "version": "v5.2",
             "support": "https://t.me/pandemonium_haydn",
-            "changelogs": ""
+            "changelogs": "https://github.com/HorizonV2/horizon_changelogs"
         }
     ]
 }
