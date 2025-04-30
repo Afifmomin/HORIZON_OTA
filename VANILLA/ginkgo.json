@@ -1,0 +1,18 @@
+{
+    "response": [
+        {
+            "device": "Redmi Note 8",
+            "codename": "ginkgo",
+            "maintainer": "Hirokixd",
+            "datetime": 1746029548,
+            "filename": "HorizonDroid-v5.2-Supernova-VANILLA-ginkgo-OFFICIAL-30042025.zip",
+            "md5": "0e2f834a2c8a8b66a7cd257db0b5f0b1",
+            "buildtype": "OFFICIAL",
+            "size": 1424514315,
+            "download": "https://7mh7pg.sharepoint.com/_layouts/15/download.aspx?share=ERzR3h31bzdFlwWNlFwqUmIBv0LPR-Q45ZGRgHahFz2sVA",
+            "version": "v5.2",
+            "support": "https://t.me/hkprojection",
+            "changelogs": "https://github.com/Wrdn28/OTA/blob/main/changelogs/horizon_ginkgo.md"
+        }
+    ]
+}
